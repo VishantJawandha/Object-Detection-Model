@@ -151,9 +151,7 @@ This script uses `cv2.imshow` and a local webcam, so it runs as a desktop app. T
 - [COCO Dataset](https://cocodataset.org/) for the class labels
 - [OpenCV](https://opencv.org/)
 
-## License
 
-This project is licensed under the MIT License. Add a `LICENSE` file to your repository to match.
 
 ## Author
 
